@@ -1,1 +1,1 @@
-# ProjetJavaMavenDesktop
+# JavaMaven
